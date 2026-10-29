@@ -16,7 +16,7 @@ Kessoku60 is a custom CNC-machined aluminum keyboard case built around the band 
 
 The engraving artwork was traced by hand from the show's character art (traced by a friend, or traced by the designer directly — the tracing was not difficult).
 
-The case was modeled in Blender, and the engraving artwork was prepared as an SVG (see `rendering/` for the Blender scene setup).
+The case was modeled in Fusion 360, and the renders were produced in Blender (see `rendering/` for the Blender scene setup).
 
 ## Gallery
 
