@@ -2,27 +2,15 @@
 
 **A Bocchi the Rock! / Kessoku Band themed 60% mechanical keyboard case.**
 
-Kessoku60 is a custom CNC-machined aluminum keyboard case built around the band from *Bocchi the Rock!* — the four members, each with their own color and instrument, running along the front face of the case.
+Kessoku60 is a custom CNC-machined aluminum keyboard case built around the band from *Bocchi the Rock!* — engraved with the band's characters, each in their own color, running along the front face of the case.
 
-## Design
+## Specs
 
 - **Layout:** 60%
 - **Mounting:** Bakeneko60-based mounting, O-ring mounted
 - **Case material:** CNC aluminum, anodized black
-- **Engraving:** laser/engraved, filled with enamel paint
-
-### The four members
-
-The front face carries one engraved character per member, in their signature colors:
-
-| Color | Member | Instrument |
-|-------|--------|------------|
-| Pink | Nijika Ijichi | Bass |
-| Yellow | Hitori "Bocchi" Gotoh | Guitar |
-| Red | Yuki "Yukki" Koshika | Drums |
-| Blue | Ryo Yamada | Guitar |
-
-The Kessoku Band logo (結束バンド) is engraved on the side of the case.
+- **Engraving:** engraved, filled with enamel paint
+- **Branding:** Kessoku Band logo (結束バンド) engraved on the side of the case
 
 ## Development
 
@@ -34,7 +22,7 @@ The case was modeled in Blender, and the engraving artwork was prepared as an SV
 
 ### Engraving artwork (front face)
 
-Flat view of the four-member engraving:
+Flat view of the engraving:
 
 ![Engraving flat view](images/engraving-flat.png)
 
@@ -44,7 +32,7 @@ Flat view of the four-member engraving:
 
 ### Case
 
-Front view — one instrument per member, in their colors:
+Front view — the four characters in their colors:
 
 ![Case front](images/case-front.png)
 
