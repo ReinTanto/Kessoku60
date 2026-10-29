@@ -2,27 +2,29 @@
 
 **A Bocchi the Rock! / Kessoku Band themed 60% mechanical keyboard case.**
 
-Kessoku60 is a custom CNC-machined aluminum keyboard case built around the band from *Bocchi the Rock!* — engraved with the band's characters, each in their own color, running along the front face of the case.
+Kessoku60 is a custom CNC-machined aluminum keyboard case built around the band from *Bocchi the Rock!* — engraved with the band's characters, each in their own color, on the back of the case.
 
 ## Specs
 
-- **Layout:** 60%
-- **Mounting:** Bakeneko60-based mounting, O-ring mounted
-- **Case material:** CNC aluminum, anodized black
-- **Engraving:** engraved, filled with enamel paint
-- **Branding:** Kessoku Band logo (結束バンド) engraved on the side of the case
+| | |
+|---|---|
+| **Layout** | 60% |
+| **Mounting** | Bakeneko60-based mounting, O-ring mounted |
+| **Case material** | CNC aluminum, anodized black |
+| **Engraving** | Back engraving (band characters), filled with enamel paint |
+| **Branding** | Kessoku Band logo (結束バンド) engraved on the side of the case |
 
 ## Development
 
-The engraving artwork was traced by hand from the show's character art (traced by a friend, or traced by the designer directly — the tracing was not difficult).
-
-The case was modeled in Fusion 360, and the renders were produced in Blender (see `rendering/` for the Blender scene setup).
+- **CAD / modeling:** Fusion 360
+- **Renders:** Blender (see `rendering/` for the Blender scene setup)
+- **Engraving artwork:** traced by hand from the show's character art (traced by a friend, or traced by the designer directly — the tracing was not difficult)
 
 ## Gallery
 
-### Engraving artwork (front face)
+### Engraving artwork (back)
 
-Flat view of the engraving:
+Flat view of the back engraving:
 
 ![Engraving flat view](images/engraving-flat.png)
 
