@@ -22,16 +22,6 @@ Kessoku60 is a custom CNC-machined aluminum keyboard case built around the band 
 
 ## Gallery
 
-### Engraving artwork (back)
-
-Flat view of the back engraving:
-
-![Engraving flat view](images/engraving-flat.png)
-
-3D preview of the engraving on the case:
-
-![Engraving 3D preview](images/engraving-3d-preview.png)
-
 ### Case
 
 Front view — the four characters in their colors:
@@ -49,6 +39,16 @@ Bottom view:
 Front low-angle view:
 
 ![Case front low](images/case-front-low.png)
+
+### Engraving artwork (back)
+
+Flat view of the back engraving:
+
+![Engraving flat view](images/engraving-flat.png)
+
+3D preview of the engraving on the case:
+
+![Engraving 3D preview](images/engraving-3d-preview.png)
 
 ### Blender scene setup
 
