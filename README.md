@@ -9,11 +9,13 @@ Kessoku60 is a custom CNC-machined aluminum keyboard case built around the band 
 | | |
 |---|---|
 | **Layout** | 60% (screwless) |
-| **Mounting** | Bakeneko60-based mounting, O-ring mounted |
+| **Mounting** | Gummy O-ring mount (TGR Unicorn / Bakeneko style) |
 | **Compatibility** | Bakeneko-compatible PCBs and plates; requires a daughterboard |
 | **Case material** | CNC aluminum, anodized black |
 | **Engraving** | Back engraving (band characters), filled with enamel paint |
 | **Branding** | Kessoku Band logo (結束バンド) engraved on the side of the case |
+| **Sound profile** | No foam / stock |
+| **Edition** | Shelved — intended for a small community group buy |
 
 ## Development
 
